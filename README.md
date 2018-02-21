@@ -11,7 +11,10 @@ The Bamazon Store allow user to view and edid the inventory of the store.  The U
 3. Add to inventory
 4. Add a new product
 
-![alt text](htt)
+![alt text](https://github.com/lcervant2/bamazon-store/blob/master/bamazon-customer/images/Architecture1.png)
+![alt text](https://github.com/lcervant2/bamazon-store/blob/master/bamazon-customer/images/Architecture2.png)
+![alt text](https://github.com/lcervant2/bamazon-store/blob/master/bamazon-customer/images/Architecture3.png)
+![alt text](https://github.com/lcervant2/bamazon-store/blob/master/bamazon-customer/images/Demo.png)
 
 ## Technoloies:
 * JavaScript
