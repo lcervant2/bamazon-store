@@ -1,12 +1,9 @@
 {
-  "name": "bamazon-customer",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "name": "bamazon-store",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "promise-mysql": "^3.2.0"
+  }
 }
