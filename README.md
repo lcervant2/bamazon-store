@@ -1,4 +1,6 @@
 # bamazon-store
+### [Bamazon Store](https://github.com/lcervant2/bamazon-store)
+A command-line storefront and inventory project built with JavaScript, Node.js, and MySQL.
 A Node.js &amp; MySQL digital storefront. 
 
 ## Description
